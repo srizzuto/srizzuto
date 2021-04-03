@@ -1,4 +1,6 @@
-![img](img/Welcome.gif)
+<p align="center">
+  <img width="100%" height="250" src="/img/Welcome.gif">
+</p>
 
 <!--
 **srizzuto/srizzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
