@@ -4,19 +4,26 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=srizzuto.srizzuto)[![Github](https://img.shields.io/github/followers/srizzuto?label=Follow&style=social)](https://github.com/srizzuto)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=srizzuto&count_private=true&theme=dark"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srizzuto&theme=dark"/>
+# Hey, I'm Seba!
 
-<!--
-**srizzuto/srizzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you! I'm currently on my way to becoming a full-stack developer. Below you will find more about me. I hope you enjoy it!
 
-Here are some ideas to get you started:
+## Yup, I'm a teamwork guy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/?username=srizzuto&count_private=true&theme=dark"/> <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srizzuto&theme=dark"/>
+
+## Currently learning:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Ruby</li>
+  <li>Ruby on Rails</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>SQL</li>
+</ul>
+
+## How to reach me:
+
+
