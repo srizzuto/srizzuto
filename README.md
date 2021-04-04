@@ -2,6 +2,10 @@
   <img width="100%" height="100%" src="/img/WELCOME.png">
 </p>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=srizzuto.srizzuto)[![Github](https://img.shields.io/github/followers/srizzuto?label=Follow&style=social)](https://github.com/srizzuto)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=srizzuto&count_private=true&theme=dark"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srizzuto&theme=dark"/>
+
 <!--
 **srizzuto/srizzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
