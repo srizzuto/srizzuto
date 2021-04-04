@@ -10,10 +10,8 @@ Nice to meet you!<br>I'm currently on my way to becoming a full-stack developer.
 
 ## Personality: Yup, I'm a teamwork guy...
 
-<img height="600px" width="100%" align="left" src="/img/personality-type.png">
-
-
-<br><br>
+<img align="center" height="600px" width="100%" align="left" src="/img/personality-type.png">
+<br>
 
 ## My stats so far...
 
@@ -33,6 +31,6 @@ Nice to meet you!<br>I'm currently on my way to becoming a full-stack developer.
 
 ## Reach me out!
 
-<a href="https://www.linkedin.com/in/srizzuto/"><img src="img/linkedin-48x48.png"></a>
-<a href="https://twitter.com/sbstnrzzt"><img src="img/twitter-48x48.png"></a>
-<a href="mailto:srizzuto@gmail.com"><img vertical-align="middle" height="60px" width="48px" src="img/gmail-48x48.png"></a>
+<a href="https://www.linkedin.com/in/srizzuto/"><img align="center" src="img/linkedin-48x48.png"></a>
+<a href="https://twitter.com/sbstnrzzt"><img align="center" src="img/twitter-48x48.png"></a>
+<a href="mailto:srizzuto@gmail.com"><img align="center" height="65px" width="48px" src="img/gmail-48x48.png"></a>
