@@ -29,7 +29,7 @@ Nice to meet you!<br>I'm currently on my way to becoming a full-stack developer.
   <li>SQL</li>
 </ul>
 
-## Reach me out!
+## Contact me!
 
 <a href="https://www.linkedin.com/in/srizzuto/"><img align="center" src="img/linkedin-48x48.png"></a>
 <a href="https://twitter.com/sbstnrzzt"><img align="center" src="img/twitter-48x48.png"></a>
