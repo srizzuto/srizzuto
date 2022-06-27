@@ -6,7 +6,7 @@
 
 ## Hey, I'm Seba!
 
-Nice to meet you!<br>I'm currently on my way to becoming a full-stack developer.<br>Student at [Microverse](https://www.microverse.org/?grsf=knrm9p).<br>Below you will find more about me.<br><br>I hope you enjoy it!<br><br>
+Nice to meet you!<br>I'm a Ruby on Rails developer and trainee Data Scientist as well.<br>Below you will find more about me.<br><br>I hope you enjoy it!<br><br>
 
 ## Personality: Yup, I'm a teamwork guy...
 
