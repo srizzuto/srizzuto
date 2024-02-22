@@ -8,11 +8,6 @@
 
 Nice to meet you!<br>I'm a Ruby on Rails developer and trainee Data Scientist as well.<br>Below you will find more about me.<br><br>I hope you enjoy it!<br><br>
 
-## Personality: Yup, I'm a teamwork guy...
-
-<img align="center" height="600px" width="100%" align="left" src="/img/personality-type.png">
-<br>
-
 ## My stats so far...
 
 <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/?username=srizzuto&count_private=true&theme=dark"/> <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srizzuto&theme=dark"/>
