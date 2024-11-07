@@ -18,9 +18,8 @@ Nice to meet you!<br>I'm a Ruby on Rails developer and trainee Data Scientist as
   <li>CSS</li>
   <li>Ruby</li>
   <li>Ruby on Rails</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Redux</li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
   <li>SQL</li>
 </ul>
 
