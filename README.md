@@ -12,17 +12,6 @@ Nice to meet you!<br>I'm a Ruby on Rails developer and trainee Data Scientist as
 
 <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/?username=srizzuto&count_private=true&theme=dark"/> <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srizzuto&theme=dark"/>
 
-## Currently learning:
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Ruby</li>
-  <li>Ruby on Rails</li>
-  <li>Docker</li>
-  <li>Kubernetes</li>
-  <li>SQL</li>
-</ul>
-
 ## Contact me!
 
 <a href="https://www.linkedin.com/in/srizzuto/"><img align="center" src="img/linkedin-48x48.png"></a>
